@@ -1,4 +1,4 @@
-# SistemaCadastroCor
+# SistemaCadastroUsuario
 📝 SistemaCadastroUsuario
 
 Sistema de cadastro de usuários em Java com integração ao MySQL.
